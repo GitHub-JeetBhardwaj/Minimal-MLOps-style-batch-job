@@ -1,0 +1,3 @@
+version: "v1"
+seed: 42
+window: 5

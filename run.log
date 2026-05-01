@@ -1,0 +1,6 @@
+2026-05-01 13:05:50,838-INFO-Starting job run by Jeet Bhardwaj
+2026-05-01 13:05:50,840-INFO-Config OK - ver:v1 seed:42 win:5
+2026-05-01 13:05:50,957-INFO-Data loaded - 10000 rows
+2026-05-01 13:05:50,959-INFO-Data loaded - 10000 rows
+2026-05-01 13:05:50,959-INFO-Calculating rolling mean & signals
+2026-05-01 13:05:50,959-INFO-Done in 124ms
