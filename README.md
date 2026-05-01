@@ -1,8 +1,5 @@
 # Task 0 - Minimal MLOps Batch Job
 
-**Author:** Jeet Bhardwaj  
-**Enrollment:** 0901AD231032  
-
 ## Overview
 This repository contains a deterministic, production-ready MLOps batch job. It computes a rolling mean on the closing prices of an OHLCV dataset and generates trading signals based on that mean. 
 
